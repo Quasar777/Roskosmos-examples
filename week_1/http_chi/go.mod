@@ -1,4 +1,4 @@
-module github.com/olezhek28/microservices-course-examples/week_1/http_chi
+module github.com/Quasar777/Roskosmos-examples/tree/main/week_1/http_chi
 
 go 1.24
 

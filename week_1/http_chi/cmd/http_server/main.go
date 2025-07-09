@@ -17,7 +17,7 @@ import (
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/go-chi/render"
 
-	"github.com/olezhek28/microservices-course-examples/week_1/http_chi/pkg/models"
+	"github.com/Quasar777/Roskosmos-examples/tree/main/week_1/http_chi/pkg/models"
 )
 
 const (
